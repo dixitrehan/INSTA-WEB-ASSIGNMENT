@@ -1,0 +1,557 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		D1D7549A2D53A03100EC85D8 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D1D754812D53A02F00EC85D8 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = D1D754882D53A02F00EC85D8;
+			remoteInfo = "INSTA WEB ASSIGNMENT";
+		};
+		D1D754A42D53A03100EC85D8 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D1D754812D53A02F00EC85D8 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = D1D754882D53A02F00EC85D8;
+			remoteInfo = "INSTA WEB ASSIGNMENT";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		D1D754892D53A02F00EC85D8 /* INSTA WEB ASSIGNMENT.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "INSTA WEB ASSIGNMENT.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D1D754992D53A03100EC85D8 /* INSTA WEB ASSIGNMENTTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "INSTA WEB ASSIGNMENTTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D1D754A32D53A03100EC85D8 /* INSTA WEB ASSIGNMENTUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "INSTA WEB ASSIGNMENTUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		D1D7548B2D53A02F00EC85D8 /* INSTA WEB ASSIGNMENT */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "INSTA WEB ASSIGNMENT";
+			sourceTree = "<group>";
+		};
+		D1D7549C2D53A03100EC85D8 /* INSTA WEB ASSIGNMENTTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "INSTA WEB ASSIGNMENTTests";
+			sourceTree = "<group>";
+		};
+		D1D754A62D53A03100EC85D8 /* INSTA WEB ASSIGNMENTUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "INSTA WEB ASSIGNMENTUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		D1D754862D53A02F00EC85D8 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D1D754962D53A03100EC85D8 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D1D754A02D53A03100EC85D8 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		D1D754802D53A02F00EC85D8 = {
+			isa = PBXGroup;
+			children = (
+				D1D7548B2D53A02F00EC85D8 /* INSTA WEB ASSIGNMENT */,
+				D1D7549C2D53A03100EC85D8 /* INSTA WEB ASSIGNMENTTests */,
+				D1D754A62D53A03100EC85D8 /* INSTA WEB ASSIGNMENTUITests */,
+				D1D7548A2D53A02F00EC85D8 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		D1D7548A2D53A02F00EC85D8 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				D1D754892D53A02F00EC85D8 /* INSTA WEB ASSIGNMENT.app */,
+				D1D754992D53A03100EC85D8 /* INSTA WEB ASSIGNMENTTests.xctest */,
+				D1D754A32D53A03100EC85D8 /* INSTA WEB ASSIGNMENTUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		D1D754882D53A02F00EC85D8 /* INSTA WEB ASSIGNMENT */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D1D754AD2D53A03100EC85D8 /* Build configuration list for PBXNativeTarget "INSTA WEB ASSIGNMENT" */;
+			buildPhases = (
+				D1D754852D53A02F00EC85D8 /* Sources */,
+				D1D754862D53A02F00EC85D8 /* Frameworks */,
+				D1D754872D53A02F00EC85D8 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				D1D7548B2D53A02F00EC85D8 /* INSTA WEB ASSIGNMENT */,
+			);
+			name = "INSTA WEB ASSIGNMENT";
+			packageProductDependencies = (
+			);
+			productName = "INSTA WEB ASSIGNMENT";
+			productReference = D1D754892D53A02F00EC85D8 /* INSTA WEB ASSIGNMENT.app */;
+			productType = "com.apple.product-type.application";
+		};
+		D1D754982D53A03100EC85D8 /* INSTA WEB ASSIGNMENTTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D1D754B02D53A03100EC85D8 /* Build configuration list for PBXNativeTarget "INSTA WEB ASSIGNMENTTests" */;
+			buildPhases = (
+				D1D754952D53A03100EC85D8 /* Sources */,
+				D1D754962D53A03100EC85D8 /* Frameworks */,
+				D1D754972D53A03100EC85D8 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				D1D7549B2D53A03100EC85D8 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				D1D7549C2D53A03100EC85D8 /* INSTA WEB ASSIGNMENTTests */,
+			);
+			name = "INSTA WEB ASSIGNMENTTests";
+			packageProductDependencies = (
+			);
+			productName = "INSTA WEB ASSIGNMENTTests";
+			productReference = D1D754992D53A03100EC85D8 /* INSTA WEB ASSIGNMENTTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		D1D754A22D53A03100EC85D8 /* INSTA WEB ASSIGNMENTUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D1D754B32D53A03100EC85D8 /* Build configuration list for PBXNativeTarget "INSTA WEB ASSIGNMENTUITests" */;
+			buildPhases = (
+				D1D7549F2D53A03100EC85D8 /* Sources */,
+				D1D754A02D53A03100EC85D8 /* Frameworks */,
+				D1D754A12D53A03100EC85D8 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				D1D754A52D53A03100EC85D8 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				D1D754A62D53A03100EC85D8 /* INSTA WEB ASSIGNMENTUITests */,
+			);
+			name = "INSTA WEB ASSIGNMENTUITests";
+			packageProductDependencies = (
+			);
+			productName = "INSTA WEB ASSIGNMENTUITests";
+			productReference = D1D754A32D53A03100EC85D8 /* INSTA WEB ASSIGNMENTUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		D1D754812D53A02F00EC85D8 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1620;
+				LastUpgradeCheck = 1620;
+				TargetAttributes = {
+					D1D754882D53A02F00EC85D8 = {
+						CreatedOnToolsVersion = 16.2;
+					};
+					D1D754982D53A03100EC85D8 = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = D1D754882D53A02F00EC85D8;
+					};
+					D1D754A22D53A03100EC85D8 = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = D1D754882D53A02F00EC85D8;
+					};
+				};
+			};
+			buildConfigurationList = D1D754842D53A02F00EC85D8 /* Build configuration list for PBXProject "INSTA WEB ASSIGNMENT" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = D1D754802D53A02F00EC85D8;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = D1D7548A2D53A02F00EC85D8 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				D1D754882D53A02F00EC85D8 /* INSTA WEB ASSIGNMENT */,
+				D1D754982D53A03100EC85D8 /* INSTA WEB ASSIGNMENTTests */,
+				D1D754A22D53A03100EC85D8 /* INSTA WEB ASSIGNMENTUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		D1D754872D53A02F00EC85D8 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D1D754972D53A03100EC85D8 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D1D754A12D53A03100EC85D8 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		D1D754852D53A02F00EC85D8 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D1D754952D53A03100EC85D8 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D1D7549F2D53A03100EC85D8 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		D1D7549B2D53A03100EC85D8 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = D1D754882D53A02F00EC85D8 /* INSTA WEB ASSIGNMENT */;
+			targetProxy = D1D7549A2D53A03100EC85D8 /* PBXContainerItemProxy */;
+		};
+		D1D754A52D53A03100EC85D8 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = D1D754882D53A02F00EC85D8 /* INSTA WEB ASSIGNMENT */;
+			targetProxy = D1D754A42D53A03100EC85D8 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		D1D754AB2D53A03100EC85D8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		D1D754AC2D53A03100EC85D8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		D1D754AE2D53A03100EC85D8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"INSTA WEB ASSIGNMENT/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "hello.co.in.INSTA-WEB-ASSIGNMENT";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		D1D754AF2D53A03100EC85D8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"INSTA WEB ASSIGNMENT/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "hello.co.in.INSTA-WEB-ASSIGNMENT";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		D1D754B12D53A03100EC85D8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "hello.co.in.INSTA-WEB-ASSIGNMENTTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/INSTA WEB ASSIGNMENT.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/INSTA WEB ASSIGNMENT";
+			};
+			name = Debug;
+		};
+		D1D754B22D53A03100EC85D8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "hello.co.in.INSTA-WEB-ASSIGNMENTTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/INSTA WEB ASSIGNMENT.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/INSTA WEB ASSIGNMENT";
+			};
+			name = Release;
+		};
+		D1D754B42D53A03100EC85D8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "hello.co.in.INSTA-WEB-ASSIGNMENTUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "INSTA WEB ASSIGNMENT";
+			};
+			name = Debug;
+		};
+		D1D754B52D53A03100EC85D8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "hello.co.in.INSTA-WEB-ASSIGNMENTUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "INSTA WEB ASSIGNMENT";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		D1D754842D53A02F00EC85D8 /* Build configuration list for PBXProject "INSTA WEB ASSIGNMENT" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D1D754AB2D53A03100EC85D8 /* Debug */,
+				D1D754AC2D53A03100EC85D8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D1D754AD2D53A03100EC85D8 /* Build configuration list for PBXNativeTarget "INSTA WEB ASSIGNMENT" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D1D754AE2D53A03100EC85D8 /* Debug */,
+				D1D754AF2D53A03100EC85D8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D1D754B02D53A03100EC85D8 /* Build configuration list for PBXNativeTarget "INSTA WEB ASSIGNMENTTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D1D754B12D53A03100EC85D8 /* Debug */,
+				D1D754B22D53A03100EC85D8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D1D754B32D53A03100EC85D8 /* Build configuration list for PBXNativeTarget "INSTA WEB ASSIGNMENTUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D1D754B42D53A03100EC85D8 /* Debug */,
+				D1D754B52D53A03100EC85D8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D1D754812D53A02F00EC85D8 /* Project object */;
+}
