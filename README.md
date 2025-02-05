@@ -3,8 +3,8 @@
 A modern, elegant contact form built with SwiftUI featuring international phone number support, real-time validation, and dark mode compatibility.
 
 <p align="center">
-  <img width="363" alt="Light Mode" src="https://github.com/user-attachments/assets/1a25c123-c86f-4ffd-9bc6-1a6ab962d68c">
-  <img width="363" alt="Dark Mode" src="https://github.com/user-attachments/assets/1a25c123-c86f-4ffd-9bc6-1a6ab962d68c">
+  <img width="203" alt="Light Mode" src="https://github.com/user-attachments/assets/1a25c123-c86f-4ffd-9bc6-1a6ab962d68c">
+  <img width="203" alt="Dark Mode" src="https://github.com/user-attachments/assets/99cebd41-f522-4a63-8c83-c895c503013a">
 </p>
 
 ## Features
