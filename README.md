@@ -2,10 +2,10 @@
 
 A modern, elegant contact form built with SwiftUI featuring international phone number support, real-time validation, and dark mode compatibility.
 
-<div align="center">
-  <img src="https://github.com/dixitrehan/INSTA-WEB-ASSIGNMENT/raw/main/demo/light.png" width="250" />
-  <img src="https://github.com/dixitrehan/INSTA-WEB-ASSIGNMENT/raw/main/demo/dark.png" width="250" />
-</div>
+<p align="center">
+  <img src="Screenshots/light-mode.png" width="250" alt="Light Mode">
+  <img src="Screenshots/dark-mode.png" width="250" alt="Dark Mode">
+</p>
 
 ## Features
 
